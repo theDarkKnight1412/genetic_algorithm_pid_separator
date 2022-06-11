@@ -1,0 +1,1 @@
+print("noris ajarin dong")
